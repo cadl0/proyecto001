@@ -127,7 +127,7 @@ public class regalo extends javax.swing.JFrame {
         }catch(Exception e){
             JOptionPane.showMessageDialog(this,"DEBE INGRESAR NUMEROS");
     }//GEN-LAST:event_jButton1ActionPerformed
-
+    }
    
     /**
      *
